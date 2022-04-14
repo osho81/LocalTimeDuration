@@ -1,4 +1,4 @@
-### LocalTimeDuration examples
+### LocalTime & Duration 
 
 #### Description 
 Basic ski race app to demonstrate LocalTime and Duration usage from the java.time package. 
